@@ -175,5 +175,72 @@
         "custom_field": ""
       }
     ]
+  },
+  {
+    "id": "50592866402",
+    "name": "220533568",
+    "order_status": "completed",
+    "order_date": "2025-11-27",
+    "last_name": "مهند الحارثي",
+    "order_total": 142,
+    "shipping_method": "أرامكس",
+    "products": [
+      {
+        "product_id": "1566891537",
+        "variation_id": "",
+        "image_url": "https://cdn.salla.sa/bQPVz/Q0tpVNTaT8q3kaIt4HNVWQ0tECPocpjm506keUqR.png",
+        "price": 23,
+        "sku": "3422500000088",
+        "name": "رول ورق حراري لطباعة بوليصات الشحن 500 ورقة مقاس 100*150",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 1917,
+        "categories": "",
+        "custom_field_label": "",
+        "custom_field": ""
+      },
+      {
+        "product_id": "2015525891",
+        "variation_id": "199035408",
+        "image_url": "https://cdn.salla.sa/bQPVz/td8qoDW8nTdtuQRDNwmFINbjSDjgEx69pE2A7MFk.png",
+        "price": 18,
+        "sku": "368894467488",
+        "name": "رول ورق حراري دائري وردي 5cm",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 931,
+        "categories": "",
+        "custom_field_label": "Extra info",
+        "custom_field": "رول واحد"
+      },
+      {
+        "product_id": "992449284",
+        "variation_id": "2104530979",
+        "image_url": "https://cdn.salla.sa/bQPVz/dL8tEPFv99SDugDMFg2UVQhIXIwbXJBCAJcUAr5w.png",
+        "price": 18,
+        "sku": "578356946784",
+        "name": "رول ورق حراري دائري اصفر 5cm",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 1066,
+        "categories": "",
+        "custom_field_label": "Extra info",
+        "custom_field": "رول واحد"
+      },
+      {
+        "product_id": "1687291373",
+        "variation_id": "",
+        "image_url": "https://cdn.salla.sa/bQPVz/a12d30b4-e6ec-4e56-84b6-be215892b256-500x500-ilt8PjXzNL92wiZNuSCdNYtCOJIEHxFEdE7O3qEL.jpg",
+        "price": 59,
+        "sku": "print0001",
+        "name": "Thermal Printer Holder",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 0,
+        "categories": "",
+        "custom_field_label": "",
+        "custom_field": ""
+      }
+    ]
   }
 ]
