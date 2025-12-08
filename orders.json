@@ -48,5 +48,86 @@
         "custom_field": ""
       }
     ]
+  },
+  {
+    "id": "50594955040",
+    "name": "222722199",
+    "order_status": "completed",
+    "order_date": "2025-12-06",
+    "last_name": "اسماء الرشيدي",
+    "order_total": 1060,
+    "shipping_method": "أرامكس",
+    "products": [
+      {
+        "product_id": "662720242",
+        "variation_id": "70627352",
+        "image_url": "https://cdn.salla.sa/bQPVz/rE1Q1CLnKsmh0C039UkslwSq53mkM4BOIomHcISi.png",
+        "price": 459,
+        "sku": "624647051299",
+        "name": "طابعة حرارية ورق بالخارج",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 10,
+        "categories": "",
+        "custom_field_label": "Extra info",
+        "custom_field": "ابيض"
+      },
+      {
+        "product_id": "1784657380",
+        "variation_id": "",
+        "image_url": "https://cdn.salla.sa/bQPVz/bb5c2e66-d674-4f72-9162-a2d7cd4e9112-500x377.1849126035-pZKcKqQI8L8tcDt447AygZSJ1HiYAdkx7xXYhcmi.jpg",
+        "price": 260,
+        "sku": "20x350-shipping",
+        "name": "20-ورق طباعة حراري لاصق مناسب لبوليصات الشحن Thermal Roll Labels 100x150mm , (4x6inch)",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 78,
+        "categories": "",
+        "custom_field_label": "",
+        "custom_field": ""
+      },
+      {
+        "product_id": "292187048",
+        "variation_id": "762785935",
+        "image_url": "https://cdn.salla.sa/bQPVz/q4AC0AXaSjKMbXhFZhmqAjXizE7ZRviEKK8a99FV.png",
+        "price": 192,
+        "sku": "888764322115",
+        "name": "رول ورق حراري دائري ابيض 5cm",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 414,
+        "categories": "",
+        "custom_field_label": "Extra info",
+        "custom_field": "12 - رول سعر الرول 16 ريال"
+      },
+      {
+        "product_id": "1687291373",
+        "variation_id": "",
+        "image_url": "https://cdn.salla.sa/bQPVz/a12d30b4-e6ec-4e56-84b6-be215892b256-500x500-ilt8PjXzNL92wiZNuSCdNYtCOJIEHxFEdE7O3qEL.jpg",
+        "price": 59,
+        "sku": "print0001",
+        "name": "Thermal Printer Holder",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 0,
+        "categories": "",
+        "custom_field_label": "",
+        "custom_field": ""
+      },
+      {
+        "product_id": "292187048",
+        "variation_id": "1403654542",
+        "image_url": "https://cdn.salla.sa/bQPVz/q4AC0AXaSjKMbXhFZhmqAjXizE7ZRviEKK8a99FV.png",
+        "price": 18,
+        "sku": "588547846786",
+        "name": "رول ورق حراري دائري ابيض 5cm",
+        "description": "",
+        "quantity": 5,
+        "stock_quantity": 414,
+        "categories": "",
+        "custom_field_label": "Extra info",
+        "custom_field": "رول واحد"
+      }
+    ]
   }
 ]
